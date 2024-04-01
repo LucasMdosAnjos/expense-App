@@ -1,0 +1,63 @@
+# Arquivos do Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.xcscmblueprint
+*.xcworkspace
+!default.xcworkspace
+
+# Arquivos de projeto Xcode SPM
+/*.swiftpm/xcode/package.xcworkspace
+
+# Arquivos temporários que xcode ou swift podem gerar
+*.swp
+*.lock
+*.DS_Store
+*.generated.swift
+*.generated.swift.rsp
+
+# O arquivo de configuração do CocoaPods
+Pods/
+
+# O arquivo de configuração do Carthage
+Carthage/Build
+
+# O arquivo de configuração do Swift Package Manager
+.build/
+.swiftpm/xcode
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Arquivos de configuração do Firebase
+GoogleService-Info.plist
+
+# Pacotes e arquivos locais SPM
+.build/
+Package.resolved
+.swiftpm/
+
+# Arquivos de bundle gerados, como o Info.plist e o Assets.car gerados pelo SwiftUI Previews
+*.generated.*
+
+# Arquivos de configuração e chaves pessoais
+*.env
+.secret
+
+# Ferramentas de cobertura de código
+*.coverage
+*.coverage.json
+coverage/
+
