@@ -35,6 +35,7 @@
 		88FD6D732BBA19F2001075F1 /* LastLoggedUser+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88FD6D712BBA19F2001075F1 /* LastLoggedUser+CoreDataProperties.swift */; };
 		88FD6D752BBA1A10001075F1 /* LastLoggedUserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88FD6D742BBA1A10001075F1 /* LastLoggedUserModel.swift */; };
 		88FD6D772BBA3E4A001075F1 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 88FD6D762BBA3E4A001075F1 /* .gitignore */; };
+		88FD6D792BBA3F64001075F1 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 88FD6D782BBA3F64001075F1 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +63,7 @@
 		88FD6D712BBA19F2001075F1 /* LastLoggedUser+CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = "LastLoggedUser+CoreDataProperties.swift"; path = "expense App/Model/LastLoggedUser+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		88FD6D742BBA1A10001075F1 /* LastLoggedUserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LastLoggedUserModel.swift; sourceTree = "<group>"; };
 		88FD6D762BBA3E4A001075F1 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		88FD6D782BBA3F64001075F1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 		88FD6D062BB8BB93001075F1 = {
 			isa = PBXGroup;
 			children = (
+				88FD6D782BBA3F64001075F1 /* README.md */,
 				88FD6D762BBA3E4A001075F1 /* .gitignore */,
 				88FD6D702BBA19F2001075F1 /* LastLoggedUser+CoreDataClass.swift */,
 				88FD6D712BBA19F2001075F1 /* LastLoggedUser+CoreDataProperties.swift */,
@@ -236,6 +239,7 @@
 			files = (
 				88FD6D772BBA3E4A001075F1 /* .gitignore in Resources */,
 				88FD6D1A2BB8BB95001075F1 /* Preview Assets.xcassets in Resources */,
+				88FD6D792BBA3F64001075F1 /* README.md in Resources */,
 				88FD6D172BB8BB95001075F1 /* Assets.xcassets in Resources */,
 				88FD6D2C2BB8C02C001075F1 /* GoogleService-Info.plist in Resources */,
 			);
